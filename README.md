@@ -1,4 +1,4 @@
-# Line-Directed-Robot
+# Line-Directed Robot
 Code for a 2-wheeled line-following robot (written in Atmel Studio).
 
 The robot used is the Sparkfun Redbot, found [here](https://www.sparkfun.com/products/12649).
